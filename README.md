@@ -1,6 +1,6 @@
 更多精彩内容请关注微信公众号：**一个程序员的成长**
 
-![公众号图片](https://bingfeng-1300121416.cos.ap-nanjing.myqcloud.com/WeChatImg/20201215165945.png)
+![公众号图片](image/公众号二维码.png)
 
 ## 【Java基础】
   	
