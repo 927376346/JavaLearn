@@ -1,6 +1,6 @@
 更多精彩内容请关注微信公众号：**一个程序员的成长**
 
-![公众号图片](image/GongZhongHaoErWeiMa.png)
+![公众号图片](/image/GongZhongHaoErWeiMa.png)
 
 ## 【Java基础】
   	
