@@ -16,4 +16,4 @@
 ### 多线程
 
 - [5个步骤，教你瞬间明白线程和线程安全](doc/JavaBasics/thread/1、5个步骤，教你瞬间明白线程和线程安全.md)
-
+- [ThreadLocalRandom类原理分析](doc/JavaBasics/thread/2、ThreadLocalRandom类原理分析.md)
