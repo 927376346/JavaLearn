@@ -1,7 +1,5 @@
 更多精彩内容请关注微信公众号：**一个程序员的成长**
 
-![公众号图片](https://bingfeng-1300121416.cos.ap-nanjing.myqcloud.com/WeChatImg/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
 ## 【Java基础】
   	
 ### 容器相关
