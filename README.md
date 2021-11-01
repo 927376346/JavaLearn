@@ -17,3 +17,7 @@
 
 - [5个步骤，教你瞬间明白线程和线程安全](doc/JavaBasics/thread/1、5个步骤，教你瞬间明白线程和线程安全.md)
 - [ThreadLocalRandom类原理分析](doc/JavaBasics/thread/2、ThreadLocalRandom类原理分析.md)
+
+### 设计模式
+
+- [策略模式在业务中的实际应用](doc/JavaBasics/designmode/1、策略模式在业务中的实际应用.md)
