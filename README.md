@@ -5,6 +5,7 @@
 ### 基础
 
 - [通过源码了解Java的自动装箱拆箱](doc/JavaBasics/basic/通过源码了解Java的自动装箱拆箱.md)
+- [如何正确的中断线程？你的姿势是否正确](doc/JavaBasics/basic/如何正确的中断线程？你的姿势是否正确.md)
   	
 ### 容器相关
 
